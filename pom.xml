@@ -14,6 +14,7 @@
         <module>Spring2</module>
         <module>Spring-proxy</module>
         <module>spring-aop</module>
+        <module>transation</module>
     </modules>
 
     <properties>
