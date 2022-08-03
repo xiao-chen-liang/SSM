@@ -14,7 +14,9 @@
         <module>Spring2</module>
         <module>Spring-proxy</module>
         <module>spring-aop</module>
-        <module>transation</module>
+        <module>translation</module>
+        <module>SpringMVC1</module>
+        <module>SpringMVC2</module>
     </modules>
 
     <properties>
